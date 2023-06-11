@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/TuYN6dmAclUAAAAC/cyberpunk.gif)]
+![MasterHead](https://media.tenor.com/TuYN6dmAclUAAAAC/cyberpunk.gif)
 <h1 align="center">Hi 👋, I'm Sourabh Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
