@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/soug9999" target="blank"><img src="https://img.shields.io/twitter/follow/soug9999?logo=twitter&style=for-the-badge" alt="soug9999" /></a> </p>
 
-- 🔭 I’m currently working on **React.js & Next.js**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **Full-Stack Development, Web3 Development**
 
-- 💬 Ask me about **Python Full-Stack Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **srbgupta98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mAgqMSgLpfyU5a0-fgOT9WHXUHJMgReF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LYCVlxdjDnV0_T60C42naR_WhQgNNjH5/view?usp=sharing)
 
 - ⚡ Fun fact **I have a coding playlist curated with epic soundtracks to amplify my programming prowess.**
 
